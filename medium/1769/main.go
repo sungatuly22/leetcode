@@ -1,3 +1,5 @@
+//link for the task ---> https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box
+
 func minOperations(boxes string) []int {
 	var i, j, k, ans int
 	var res []int
